@@ -1,0 +1,12 @@
+import './index.css';
+import './App.css';
+import ReactDOM from 'react-dom';
+
+
+ReactDOM.render(
+
+
+document.getElementById('root')
+);
+
+
